@@ -48,6 +48,9 @@ function App() {
             <b>Certifications</b>
           </h3>
           <ul>
+          <li>
+              <em>2025.05&emsp; Data Analytics Essentials | Cisco.</em>
+            </li>
             <li>
               <em>2025.03&emsp; Introduction To Cybersecurity | Cisco.</em>
             </li>
