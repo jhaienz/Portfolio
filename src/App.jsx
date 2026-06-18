@@ -61,6 +61,21 @@ const certifications = [
 
 const competitions = [
   {
+    date: "2026.6",
+    title: "AI4AI Vibe Coding Competition",
+    achievements: ["2nd Runner Up"],
+  },
+    {
+    date: "2026.6",
+    title: "Kyokugen Capture The Flag",
+    achievements: ["3nd Place"],
+  },
+  {
+    date: "2026.5",
+    title: "P2A ASEAN AI Hackathon | Smart City Track",
+    achievements: ["16th Place"],
+  },
+  {
     date: "2025.12",
     title: "Hack4Gov Season 4 | DICT.",
     achievements: ["2nd Runner up"],
